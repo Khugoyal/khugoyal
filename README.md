@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Goyal</h1>
 <h3 align="center">A passionate developer from Los Angeles, CA</h3>
 
-- 📫 How to reach me **khushigo@usc.edu**
+- 📫 How to reach me **khushi.goyal25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
